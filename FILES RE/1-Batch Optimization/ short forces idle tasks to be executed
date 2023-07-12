@@ -1,0 +1,5 @@
+@echo off
+Rundll32.exe advapi32.dll,ProcessIdleTasks
+@echo this tweaks tell Windows Idle Task Scheduling when window is idle 
+rem The file placement optimization, which is done no more often than once every three days, is an example of a task that is carried out when the system is deemed to be idle.
+rem This command simply puts Windows into an idle state, enabling it to perform tasks that it wouldn’t otherwise normally do while the PC is in use
