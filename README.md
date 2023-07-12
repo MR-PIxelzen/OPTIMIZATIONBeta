@@ -1,4 +1,4 @@
-# PC-Tuning
+# this is a repository FOR Optimisation files
 
 [![Discord](https://discordapp.com/api/guilds/994887453599076422/widget.png?style=shield)](https://discord.com/invite/yrAnChXXZw)
 
